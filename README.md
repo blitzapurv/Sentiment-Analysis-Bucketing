@@ -62,7 +62,7 @@ The process is broadly divided into two steps:
 - Category: Level 1 Category estimated by the process.
  
  
-This process makes us of a configuration file, a google sheet, uploadparams.gsheet which is accessed and modified using Google Sheets API. link to g-sheet
+This process makes us of a configuration file, a google sheet, sentiment_params.gsheet which is accessed and modified using Google Sheets API. link to g-sheet
 - Task ID: Unique task ID.
 - Client: Client / Project Name.
 - Flag: 1 to run, 0 to not run for a give Task ID.
